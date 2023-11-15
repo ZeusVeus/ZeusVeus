@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ZeusVeus
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python3, Java
+- 💞️ I’m looking to collaborate on mobile apps Java
+- 📫 How to reach me @VeusZeus
